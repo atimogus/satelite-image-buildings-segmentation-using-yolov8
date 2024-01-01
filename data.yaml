@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 1
+names: ['.']
+
+roboflow:
+  workspace: selfdriving-car-qtywx
+  project: self-driving-cars-lfjou
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou/dataset/6
