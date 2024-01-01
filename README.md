@@ -2,7 +2,7 @@
 satelite image buildings segmentation using yolov8
 
 
-using dataset from kaggle to train model on satelite images of objects
+using dataset from kaggle to train model on satelite images of objects (https://www.kaggle.com/datasets/tekbahadurkshetri/building-mapping)
 
 1. step is sorting data
 2. step is manually converting tiff mas to jpg mask
